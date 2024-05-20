@@ -1,5 +1,4 @@
 #### JSON TO MONGO
-
 - JSON TO MONGO
   Hi 🖐️,this Node.js script is designed to be run from the terminal, allowing users to populate a MongoDB collection with data from a JSON file and,
   if necessary, delete the collection at a later time.
